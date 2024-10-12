@@ -4,7 +4,7 @@
 ----
 
 ### 제가 개발한 오픈소스 프레임워크를 소개합니다
-- [toryris](https://github.com/wisdomstar94/torytis) : 티스토리 블로그 스킨 개발 프레임워크
+- [torytis](https://github.com/wisdomstar94/torytis) : 티스토리 블로그 스킨 개발 프레임워크
 
 ### 제가 torytis 프레임워크로 개발한 티스토리 블로그 스킨을 소개합니다
 - [Stroke Skin](https://github.com/wisdomstar94/torytis-tistory-skin-stroke) : 티스토리 Stroke 스킨
