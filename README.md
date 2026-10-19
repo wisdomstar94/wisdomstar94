@@ -3,9 +3,10 @@
 
 ----
 
-### Claude Code 를 활용하여 만든 파일 관리 서비스를 소개합니다
+### Claude Code 를 활용하여 만든 파일 관리 서비스와 로그일기 앱을 소개합니다
 
 - [file management service](https://github.com/wisdomstar94/file-management-service) : 파일 관리 서비스
+- [log diary](https://github.com/wisdomstar94/log-diary) : 로그일기
 
 ### 티스토리 블로그 스킨 개발을 위한 오픈소스 프레임워크를 소개합니다
 - [torytis](https://github.com/wisdomstar94/torytis) : 티스토리 블로그 스킨 개발 프레임워크
